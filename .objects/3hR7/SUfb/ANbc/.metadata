@@ -1,0 +1,16 @@
+﻿{
+  "Id": "ANbcVp0oCEugcvaNl7ucDA",
+  "Reference": "UubQHNxGhk-MahQ92KLkJA/ANbcVp0oCEugcvaNl7ucDA",
+  "ParentRef": "UubQHNxGhk-MahQ92KLkJA/SUfbWgawvEaq9J4WsibeYg",
+  "Name": "ACMEDashboard",
+  "Description": "ACME System1 Dashboard",
+  "Type": "Screen",
+  "Created": "2022-02-18T19:23:29.4328257Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=21.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-02-18T19:23:38.0382937Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=21.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

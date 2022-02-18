@@ -1,0 +1,15 @@
+﻿{
+  "Id": "S2FLCo-_iUSp6d1xBBXMZQ",
+  "Reference": "UubQHNxGhk-MahQ92KLkJA/S2FLCo-_iUSp6d1xBBXMZQ",
+  "ParentRef": "UubQHNxGhk-MahQ92KLkJA/ANbcVp0oCEugcvaNl7ucDA",
+  "Name": "Check App State 'Download Monthly Report'",
+  "Description": "Targets object that downloads monthly reports from ACME System1 Dashboard.",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Created": "2022-02-18T19:23:53.2883563Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=21.10.4.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=21.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-02-18T19:23:53.2883563Z"
+}
